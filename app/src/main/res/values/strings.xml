@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Music Structures</string>
+    <string name="playlists">Playlists</string>
+    <string name="songs">Songs</string>
+    <string name="albums">Albums</string>
+    <string name="artists">Artists</string>
+    <string name="dummysong">Dummy Song</string>
+    <string name="dummyartist">Dummy Artist</string>
+    <string name="nowplaying">Now Playing</string>
+    <string name="dummyalbum">Dummy Album</string>
+    <string name="dummyplaylist">Dummy Playlist</string>
+</resources>
